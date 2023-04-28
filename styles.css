@@ -1,0 +1,36 @@
+h1 {
+    margin-top: 0;
+}
+
+.top{
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+   
+    
+}
+    
+.mid{
+    background-color: blue;
+  
+    height: 200px;
+    width: 200px;
+   
+    
+}
+.bottom{ background-color: pink;
+
+    height: 200px;
+    width: 200px;
+
+   
+
+}
+body{
+    margin: 0;
+}
+img{
+    width: 70%;
+
+    height: 60%;
+}
